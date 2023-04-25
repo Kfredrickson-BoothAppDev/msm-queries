@@ -25,4 +25,4 @@ class DirectorsController < ApplicationController
     
   
   end
-end
+end 
